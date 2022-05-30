@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica;
+}
+/* navbar */
+.navbar {
+    background-color: #660066;
+    position: fixed;   /* para que el menu de navegación esté fijo */
+    width: 100vw;  /* para que recupere la anchura que perdió con fixed */
+    z-index: 1; /* para que siempre se sobreponga sobre cualquier otro elemento, en este caso el hero.section */
+}
+
+.navbar-brand {
+    font-family: "Oswald";
+    font-size: 40px;
+    font-weight: 700;
+}
