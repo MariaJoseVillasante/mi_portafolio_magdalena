@@ -5,6 +5,7 @@ html{
 body {
     font-family: Helvetica;
 }
+
 /* navbar */
 .navbar {
     background-color: #660066;
@@ -54,14 +55,14 @@ body {
     font-weight: 900;
 }
 
-/* sobre mi  */
+/* Sobre mi  */
 #Sobre-Mi{
     color: #373A3C;
     font-family: "Open Sans";
     line-height: 3;
 }
 
-/* mi experiencia */
+/* Mi experiencia */
 #Experiencia div h1{
     font-family: "Oswald";
     font-size: 52px;
@@ -79,7 +80,7 @@ body {
     font-family: "Open Sans";
     font-weight: 300;
 }
- /* mis ultimos trabajos */
+ /* Mis ultimos trabajos */
 #Trabajos {
     background-color: #660066;
     font-family: "Oswald";
@@ -109,6 +110,7 @@ body {
 #Footer h1{
     font-family: "Oswald";
 }
+
 #Footer a {
     color: white;
     /* elimina lo que aparece al lado del ícono */
